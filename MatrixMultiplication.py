@@ -1,4 +1,4 @@
-
+#This program multiplies any two 3x3 matrix without any physical calculation
 #! 3x3 MATRIX MULTIPLICATION:
 
 # Function to input a 3x3 matrix
@@ -38,7 +38,7 @@ result = [
     [0, 0, 0],
     [0, 0, 0]
 ]
-
+#Hurray you have created the program perfectly :) 
 # Perform the matrix multiplication
 for i in range(3):
     for j in range(3):
