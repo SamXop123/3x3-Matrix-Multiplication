@@ -28,3 +28,6 @@ for i in range(3):
 print("Result of 3x3 matrix multiplication:")
 for row in result:
     print(row)
+# sahi hai bhai 
+#dekhle 
+#verified by neel pandey
