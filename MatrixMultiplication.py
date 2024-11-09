@@ -41,7 +41,6 @@ result = [
     [0, 0, 0]
 ]
 
-
 # Perform the matrix multiplication
 for i in range(3):
     for j in range(3):
